@@ -2,6 +2,7 @@
 
 ## RxJS
 
+* [Learn RxJS](https://www.learnrxjs.io/)
 * [JavaScript Promises vs. RxJS Observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2)
 * [Reactive Programming in JavaScript with RxJS.](https://blog.bitsrc.io/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 * [Thinking reactively in Angular and RXJS](https://blog.strongbrew.io///thinking-reactively-in-angular-and-rxjs/)
