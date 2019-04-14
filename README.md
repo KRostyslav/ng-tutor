@@ -3,6 +3,10 @@
 ## RxJS
 
 * [Learn RxJS](https://www.learnrxjs.io/)
+* [RxJS in Action](https://www.amazon.com/RxJS-Action-Paul-P-Daniels/dp/1617293415/ref=sr_1_1?keywords=rxjs&qid=1555264877&s=gateway&sr=8-1) (book)
+* [Build Reactive Websites with RxJS: Master Observables and Wrangle Events](https://www.amazon.com/Build-Reactive-Websites-RxJS-Observables-ebook/dp/B07M7B65Z1/ref=sr_1_3?keywords=rxjs&qid=1555264877&s=gateway&sr=8-3ing-streams-in-rxjs-aaa02baaff9a) (book)
+* [Reactive Programming with RxJS 5: Untangle Your Asynchronous JavaScript Code](https://www.amazon.com/Reactive-Programming-RxJS-Asynchronous-JavaScript-ebook/dp/B07B84QFKC/ref=ddp_kc_2/144-9405491-1508647?_encoding=UTF8&pd_rd_i=B07B84QFKC&pd_rd_r=157ea794-5eee-11e9-bd66-f3c4fc150285&pd_rd_w=XQlRk&pd_rd_wg=V3avr&pf_rd_p=e0815646-5f2f-4605-9a93-befcd273e46a&pf_rd_r=549E2XWSN162EM8FKW0S&psc=1&refRID=549E2XWSN162EM8FKW0S) (book)
+* [Architecting Angular Applications with Redux, RxJS, and NgRx: Learn to build Redux style high-performing applications with Angular 6](https://www.amazon.com/Architecting-Angular-Applications-Redux-RxJS-ebook/dp/B0753HNW7Z/ref=sr_1_2?keywords=rxjs&qid=1555264877&s=gateway&sr=8-2) (book)
 * [AngularFirebase. RxJS](https://angularfirebase.com/tag/rxjs/)
 * [JavaScript Promises vs. RxJS Observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2)
 * [Reactive Programming in JavaScript with RxJS.](https://blog.bitsrc.io/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
