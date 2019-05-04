@@ -7,10 +7,21 @@
 * [Angular NgModule - Ahead Of Time Compilation (AOT) And Lazy Loading](https://blog.angular-university.io/angular2-ngmodule/)
 * [Lazy Loading Angular – Code Splitting NgModules with Webpack](https://ultimatecourses.com/blog/lazy-loading-angular-code-splitting-webpack)
 
+## Perfomence
+
+* [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
+
 ## Webpack
 
+* [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
+* [High-performance webpack config for front-end delivery](https://www.codementor.io/drewpowers/high-performance-webpack-config-for-front-end-delivery-90sqic1qa)
+* [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
 * [Three simple ways to inspect a Webpack bundle](https://medium.com/@joeclever/three-simple-ways-to-inspect-a-webpack-bundle-7f6a8fe7195d)
-* []()
+* [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579)
+* [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
+* [Webpack (v4) Code Splitting using SplitChunksPlugin](https://itnext.io/react-router-and-webpack-v4-code-splitting-using-splitchunksplugin-f0a48f110312)
+* [Demystifying Webpack 4 Split Chunks Plugin](https://engineering.wingify.com/posts/demystifying-split-chunks-plugin/)
+
 
 ## Git
 
