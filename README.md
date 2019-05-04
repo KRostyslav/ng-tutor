@@ -1,4 +1,21 @@
+## SSR
 
+* [When everything's important, nothing is! ](https://aerotwist.com/blog/when-everything-is-important-nothing-is/)
+
+## Lazy Loading
+
+* [Angular NgModule - Ahead Of Time Compilation (AOT) And Lazy Loading](https://blog.angular-university.io/angular2-ngmodule/)
+* [Lazy Loading Angular – Code Splitting NgModules with Webpack](https://ultimatecourses.com/blog/lazy-loading-angular-code-splitting-webpack)
+
+## Webpack
+
+* [Three simple ways to inspect a Webpack bundle](https://medium.com/@joeclever/three-simple-ways-to-inspect-a-webpack-bundle-7f6a8fe7195d)
+* []()
+
+## Git
+
+* [Splitting pull request](https://glebbahmutov.com/blog/splitting-pull-request/index.html)
+* [Restore deleted Git branch](https://slonoed.net/restore-deleted-git-branch/)
 
 ## RxJS
 
